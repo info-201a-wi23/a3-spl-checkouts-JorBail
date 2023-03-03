@@ -1,0 +1,821 @@
+UsageClass,CheckoutType,MaterialType,CheckoutYear,CheckoutMonth,Checkouts,Title,ISBN,Creator,Subjects,Publisher,PublicationYear
+Digital,OverDrive,EBOOK,2016,10,12,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2016,10,11,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2016,11,14,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2016,11,10,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2016,11,11,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2016,11,8,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2016,12,16,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2016,12,11,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2016,12,7,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2016,12,11,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2017,1,11,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2017,1,8,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2017,1,14,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2017,1,16,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2010,9,1,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2010,10,4,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2010,11,4,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2010,12,4,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2011,1,3,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2011,2,3,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2011,3,1,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2011,4,3,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2011,5,2,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2011,6,1,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2011,8,3,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2011,9,4,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2011,10,2,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2011,11,1,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2011,12,2,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2012,1,3,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2012,2,2,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2012,3,3,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2012,4,2,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2012,5,4,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2012,6,1,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2012,7,3,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2012,8,2,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2012,9,2,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2012,10,3,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2012,11,2,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2012,12,2,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2013,1,2,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2013,2,2,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2013,3,1,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2013,4,3,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2013,5,3,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2013,6,5,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2013,7,6,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2013,8,3,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2013,9,4,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2013,10,5,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2013,11,3,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2013,11,2,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2013,12,2,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2013,12,4,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2014,1,5,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2014,1,3,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2014,2,1,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2014,2,7,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2014,3,8,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2014,3,7,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2014,3,11,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2014,4,15,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2014,4,5,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2014,4,9,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2014,5,13,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2014,5,17,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2014,5,3,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2014,6,8,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2014,6,4,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2014,6,12,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2014,7,7,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2014,7,12,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2014,7,17,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2014,8,7,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2014,8,10,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2014,8,10,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2014,9,6,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2014,9,14,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2014,9,13,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2014,10,15,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2014,10,9,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2014,10,7,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2014,11,13,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2014,11,15,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2014,11,6,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2014,12,8,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2014,12,15,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2014,12,10,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2015,1,11,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2015,1,14,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2015,1,9,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2015,2,12,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2015,2,11,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2015,2,8,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2015,3,10,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2015,3,9,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2015,3,11,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2015,4,15,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2015,4,14,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2015,4,15,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2015,5,12,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2015,5,9,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2015,5,11,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2015,6,11,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2015,6,11,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2015,6,14,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2015,7,10,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2015,7,8,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2015,7,12,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2015,8,12,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2015,8,17,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2015,8,9,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2015,9,14,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2015,9,12,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2015,9,13,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2015,10,10,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2015,10,2,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2015,10,12,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2015,10,11,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2015,11,11,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2015,11,13,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2015,11,3,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2015,11,11,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2015,12,13,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2015,12,6,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2015,12,13,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2015,12,12,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2016,1,11,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2016,1,11,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2016,1,7,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2016,1,14,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2016,2,8,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2016,2,15,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2016,2,11,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2016,2,13,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2016,3,12,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2016,3,12,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2016,3,6,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2016,3,15,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2016,4,10,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2016,4,7,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2016,4,12,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2016,4,8,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2016,5,15,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2016,5,12,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2016,5,12,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2016,5,11,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2016,6,12,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2016,6,12,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2016,6,5,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2016,6,9,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2016,7,7,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2016,7,13,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2016,7,12,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2016,7,11,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2016,8,14,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2016,8,9,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2016,8,14,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2016,8,11,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2016,9,9,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2016,9,6,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2016,9,12,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2016,9,13,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2016,10,11,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2016,10,6,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2017,3,15,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2017,2,9,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2017,3,11,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2017,3,10,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2017,3,6,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2017,2,15,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2017,2,5,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2017,2,13,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2017,4,10,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2017,4,18,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2017,4,11,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2017,4,7,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2017,5,13,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2017,6,12,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2017,5,18,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2017,5,15,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2017,5,9,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2017,6,11,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2017,6,16,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2017,6,16,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2017,7,9,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2017,7,14,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2017,7,23,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2017,7,14,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2017,8,12,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2017,8,17,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2017,8,16,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2017,8,14,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2017,9,21,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2017,9,13,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2017,9,12,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2017,9,23,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2017,10,19,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2017,10,14,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2017,10,17,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2017,10,7,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2017,10,13,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2017,11,23,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2017,11,25,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2017,11,11,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2017,11,23,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2017,11,14,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2017,11,10,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2017,11,18,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2017,12,29,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2017,12,19,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2017,12,53,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2017,12,16,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2017,12,29,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2017,12,17,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2017,12,32,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2018,1,39,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,1,10,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2018,1,19,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2018,1,18,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2018,1,16,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2018,1,39,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2018,1,20,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2018,1,24,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2018,1,52,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2018,2,34,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2018,2,21,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2018,2,24,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2018,2,20,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2018,2,36,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,2,46,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2018,2,7,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2018,2,18,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2018,2,18,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,3,16,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2018,3,6,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2018,3,27,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2018,3,55,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2018,3,27,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2018,3,37,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2018,3,18,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2018,3,35,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2018,3,12,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2018,4,52,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2018,4,22,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2018,4,23,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2018,4,8,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2018,4,17,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2018,4,16,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2018,4,19,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2018,4,37,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,4,27,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2018,5,24,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2018,5,36,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,5,18,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2018,5,22,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,5,58,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2018,5,31,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2018,5,7,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2018,5,16,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2018,5,23,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2018,6,36,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2018,6,19,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2018,6,56,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2018,6,25,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2018,6,17,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2018,6,24,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2018,6,16,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,6,32,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2018,6,6,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2018,7,22,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,7,56,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2018,7,8,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2018,7,19,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2018,7,16,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2018,7,28,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2018,7,35,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,7,24,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2018,7,31,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2018,8,38,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,8,9,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2018,8,22,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2018,8,17,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2018,8,29,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2018,8,32,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2018,8,52,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2018,8,15,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2018,8,19,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2018,9,16,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2018,9,12,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,9,7,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2018,9,33,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,9,30,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2018,9,14,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2018,9,50,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2018,9,19,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2018,9,24,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2018,10,26,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2018,10,3,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2018,10,22,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2018,10,40,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,10,15,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2018,10,25,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2018,10,51,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2018,10,15,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2018,10,36,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2018,11,13,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2018,11,34,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,11,50,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2018,11,18,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2018,11,26,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2018,11,5,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2018,11,21,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2018,11,15,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2018,11,25,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2018,12,15,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2018,12,22,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,12,2,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2018,12,25,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2018,12,21,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2018,12,25,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2018,12,34,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2018,12,44,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2018,12,25,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2019,1,17,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2019,1,2,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2019,1,30,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2019,1,38,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,1,52,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,1,15,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,1,36,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2019,1,25,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2019,1,17,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,2,14,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2019,2,21,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2019,2,32,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2019,2,30,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2019,2,16,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2019,2,43,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,2,16,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2019,2,34,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,2,4,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2019,3,17,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2019,3,38,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,3,44,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2019,3,33,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2019,3,25,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2019,3,25,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2019,3,18,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2019,3,4,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2019,3,14,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2019,4,37,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2019,4,13,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2019,4,12,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2019,4,43,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,4,37,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2019,4,5,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2019,4,11,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2019,4,19,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2019,4,26,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2019,5,31,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2019,5,12,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,5,19,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,5,4,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2019,5,17,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2019,5,33,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2019,5,24,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,5,36,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,5,18,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2019,6,32,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2019,6,25,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2019,6,31,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2019,6,7,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2019,6,30,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2019,6,16,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,6,19,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,6,21,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2019,6,22,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2019,7,27,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,7,5,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2019,7,29,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2019,7,34,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2019,7,19,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2019,7,35,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2019,7,20,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,7,14,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,7,18,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2019,8,19,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,8,16,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2019,8,17,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2019,8,21,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2019,8,30,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2019,8,4,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2019,8,40,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2019,8,40,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,8,38,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,9,38,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,9,6,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2019,9,32,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,9,19,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2019,9,15,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2019,9,36,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2019,9,35,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2019,9,16,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,9,12,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,10,21,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2019,10,30,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2019,10,37,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2019,10,32,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,10,12,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,10,16,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,10,21,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2019,10,4,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2019,10,31,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,11,36,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2019,11,17,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2019,11,15,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2019,11,5,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2019,11,27,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2019,11,17,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2019,11,6,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2019,11,32,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,11,18,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,12,40,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2019,12,16,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2019,12,12,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,12,4,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2019,12,26,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2019,12,26,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2019,12,9,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2019,12,7,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2019,12,9,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2020,1,18,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2020,1,8,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2020,1,8,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2020,1,32,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2020,1,18,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,1,11,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2020,1,22,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2020,1,43,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2020,1,4,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2020,2,11,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2020,2,23,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2020,2,6,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2020,2,3,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2020,2,34,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2020,2,9,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2020,2,24,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2020,2,14,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2020,2,35,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,3,22,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2020,3,10,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2020,3,14,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2020,3,4,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2020,3,10,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2020,3,30,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2020,3,7,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2020,3,32,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2020,3,11,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,4,5,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2020,4,9,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2020,4,36,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2020,4,31,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2020,4,8,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2020,4,27,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2020,4,6,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2020,4,16,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2020,4,16,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,5,24,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2020,5,13,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2020,5,9,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2020,5,7,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2020,5,43,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2020,5,6,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2020,5,13,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2020,5,38,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2020,5,19,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2020,6,17,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,6,12,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2020,6,5,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2020,6,34,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2020,6,36,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2020,6,16,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2020,6,16,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2020,6,3,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2020,6,23,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2020,7,5,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2020,7,4,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2020,7,12,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2020,7,36,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2020,7,22,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,7,11,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2020,7,15,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2020,7,23,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2020,7,15,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,8,25,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2020,8,12,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2020,8,22,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,8,5,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2020,8,34,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2020,8,17,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2020,8,13,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2020,8,4,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2020,8,37,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2020,9,5,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2020,9,27,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2020,9,14,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2020,9,42,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2020,9,23,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,9,7,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2020,9,34,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,9,14,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2020,9,15,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2020,10,33,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2020,10,11,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2020,10,32,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,10,5,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2020,10,13,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2020,10,5,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2020,10,12,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,10,11,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2020,10,28,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2020,11,12,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2020,11,29,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2020,11,22,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,EBOOK,2020,11,33,"Rhythm of War: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2020,11,6,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2020,11,18,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,11,12,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2020,11,15,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2020,11,31,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,11,7,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2020,11,36,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2020,12,20,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2020,12,31,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2020,12,59,"Rhythm of War: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,AUDIOBOOK,2020,12,35,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2020,12,14,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2020,12,16,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2020,12,18,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2020,12,48,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,EBOOK,2020,12,3,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2020,12,9,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2020,12,35,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2021,1,53,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,AUDIOBOOK,2021,1,16,"Words of Radiance: Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2021,1,2,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2021,1,30,"Oathbringer: Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2021,1,61,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2021,1,13,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,1,21,Edgedancer: From the Stormlight Archive (unabridged) (Unabridged),,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2021,1,42,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2021,1,17,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2021,1,14,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2021,1,35,"The Way of Kings: Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2021,2,28,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2021,2,58,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2021,2,31,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2021,2,12,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,2,34,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2021,2,14,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2021,2,50,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,EBOOK,2021,2,15,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,2,10,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2021,2,6,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2021,2,10,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2021,3,37,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2021,3,17,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2021,3,6,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2021,3,18,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2021,3,12,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2021,3,16,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2021,3,55,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,EBOOK,2021,3,34,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2021,3,17,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2021,3,59,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,AUDIOBOOK,2021,3,39,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged) (Unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2021,4,39,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2021,4,28,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2021,4,59,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2021,4,6,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2021,4,19,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,4,15,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2021,4,17,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2021,4,31,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2021,4,13,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2021,4,14,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,4,49,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,EBOOK,2021,5,14,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2021,5,33,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2021,5,17,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2021,5,38,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2021,5,60,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,AUDIOBOOK,2021,5,35,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2021,5,15,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2021,5,5,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2021,5,14,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,5,55,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,EBOOK,2021,5,15,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,6,56,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,EBOOK,2021,6,14,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2021,6,44,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2021,6,71,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2021,6,13,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2021,6,13,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2021,6,14,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2021,6,6,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2021,6,32,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2021,6,17,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2021,6,39,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2021,7,7,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2021,7,40,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2021,7,62,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,AUDIOBOOK,2021,7,17,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2021,7,16,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2021,7,49,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,EBOOK,2021,7,31,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2021,7,18,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2021,7,14,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2021,7,19,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,7,36,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2021,8,32,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2021,8,14,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,8,19,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2021,8,37,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2021,8,65,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2021,8,7,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2021,8,48,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,AUDIOBOOK,2021,8,15,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2021,8,34,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2021,8,15,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2021,8,11,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2021,9,14,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,9,13,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2021,9,62,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2021,9,17,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2021,9,59,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,AUDIOBOOK,2021,9,33,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2021,9,29,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2021,9,16,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2021,9,6,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2021,9,35,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2021,9,12,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,10,36,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2021,10,53,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,AUDIOBOOK,2021,10,10,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2021,10,34,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2021,10,15,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,10,16,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2021,10,5,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2021,10,54,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,AUDIOBOOK,2021,10,28,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2021,10,14,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2021,10,16,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,11,15,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2021,11,37,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2021,11,16,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2021,11,16,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2021,11,37,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2021,11,49,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,EBOOK,2021,11,39,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2021,11,51,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2021,11,9,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2021,11,9,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2021,11,17,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,12,33,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2021,12,65,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2021,12,7,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2021,12,15,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2021,12,34,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2021,12,11,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2021,12,18,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2021,12,17,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2021,12,48,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,EBOOK,2021,12,30,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2021,12,12,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2022,1,50,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2022,1,11,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2022,1,12,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2022,1,32,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2022,1,43,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,AUDIOBOOK,2022,1,22,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2022,1,33,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2022,1,7,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2022,1,18,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2022,1,38,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2022,1,8,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2022,2,4,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2022,2,12,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2022,2,34,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,EBOOK,2022,2,34,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,AUDIOBOOK,2022,2,39,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2022,2,6,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2022,2,4,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2022,2,8,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2022,2,23,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2022,2,29,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2022,2,11,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2022,3,24,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2022,3,7,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2022,3,10,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2022,3,52,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,AUDIOBOOK,2022,3,17,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2022,3,34,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2022,3,19,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2022,3,42,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2022,3,6,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2022,3,6,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2022,3,31,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2022,4,8,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2022,4,34,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2022,4,6,Edgedancer: From the Stormlight Archive,,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2022,4,27,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2022,4,8,"Words of Radiance: The Stormlight Archive Series, Book 2",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2022,4,7,"Oathbringer: The Stormlight Archive Series, Book 3",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2022,4,29,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2022,4,28,"The Way of Kings: The Stormlight Archive Series, Book 1",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2022,4,6,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2022,4,13,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2022,4,31,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,AUDIOBOOK,2022,5,43,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",9781250759788,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,AUDIOBOOK,2022,5,30,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",9781427275943,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2022,5,9,"Oathbringer: The Stormlight Archive Series, Book 3",9780765399830,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2022,5,18,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",9781427238986,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2022,5,7,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",9780765391179,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2022,5,38,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",9781429952040,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2022,5,23,"The Way of Kings: The Stormlight Archive Series, Book 1",9781429992800,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2022,5,7,Edgedancer: From the Stormlight Archive,9781250166609,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2022,5,21,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",9781427294944,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2022,5,6,"Words of Radiance: The Stormlight Archive Series, Book 2",9781429949620,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2022,5,38,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",9781427220264,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2022,6,5,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",9780765391179,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2022,6,13,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",9781427294944,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2022,6,31,"The Way of Kings: The Stormlight Archive Series, Book 1",9781429992800,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2022,6,33,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",9781250759788,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,AUDIOBOOK,2022,6,35,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",9781427220264,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2022,6,16,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",9781427238986,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2022,6,9,"Words of Radiance: The Stormlight Archive Series, Book 2",9781429949620,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2022,6,35,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",9781427275943,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2022,6,36,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",9781429952040,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2022,6,13,"Oathbringer: The Stormlight Archive Series, Book 3",9780765399830,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2022,6,4,Edgedancer: From the Stormlight Archive,9781250166609,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2022,7,5,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",9780765391179,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2022,7,35,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",9781427275943,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2022,7,17,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",9781427238986,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2022,7,8,"Oathbringer: The Stormlight Archive Series, Book 3",9780765399830,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2022,7,29,"The Way of Kings: The Stormlight Archive Series, Book 1",9781429992800,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2022,7,47,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",9781429952040,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,AUDIOBOOK,2022,7,15,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",9781427294944,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2022,7,42,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",9781250759788,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,AUDIOBOOK,2022,7,31,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",9781427220264,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2022,7,11,"Words of Radiance: The Stormlight Archive Series, Book 2",9781429949620,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2022,7,8,Edgedancer: From the Stormlight Archive,9781250166609,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2022,8,19,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",9781427294944,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2022,8,34,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",9781427275943,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2022,8,10,"Oathbringer: The Stormlight Archive Series, Book 3",9780765399830,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2022,8,10,"Words of Radiance: The Stormlight Archive Series, Book 2",9781429949620,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2022,8,49,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",9781250759788,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,EBOOK,2022,8,8,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",9780765391179,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2022,8,14,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",9781427238986,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2022,8,39,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",9781427220264,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2022,8,35,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",9781429952040,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2022,8,32,"The Way of Kings: The Stormlight Archive Series, Book 1",9781429992800,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2022,8,9,Edgedancer: From the Stormlight Archive,9781250166609,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2022,9,33,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",9781427220264,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2022,9,8,Edgedancer: From the Stormlight Archive,9781250166609,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2022,9,14,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",9781427294944,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2022,9,10,"Oathbringer: The Stormlight Archive Series, Book 3",9780765399830,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2022,9,12,"Words of Radiance: The Stormlight Archive Series, Book 2",9781429949620,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,AUDIOBOOK,2022,9,31,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",9781427275943,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2022,9,14,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",9781427238986,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2022,9,7,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",9780765391179,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2022,9,50,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",9781429952040,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2022,9,21,"The Way of Kings: The Stormlight Archive Series, Book 1",9781429992800,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2022,9,45,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",9781250759788,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,AUDIOBOOK,2022,10,17,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",9781427238986,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2022,10,10,"Words of Radiance: The Stormlight Archive Series, Book 2",9781429949620,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2022,10,11,"Oathbringer: The Stormlight Archive Series, Book 3",9780765399830,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2022,10,38,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",9781429952040,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2022,10,28,"The Way of Kings: The Stormlight Archive Series, Book 1",9781429992800,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2022,10,5,Edgedancer: From the Stormlight Archive,9781250166609,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2022,10,38,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",9781250759788,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,AUDIOBOOK,2022,10,32,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",9781427275943,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2022,10,5,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",9780765391179,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2022,10,9,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",9781427294944,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2022,10,40,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",9781427220264,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,AUDIOBOOK,2022,11,31,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",9781427275943,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2022,11,32,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",9781427220264,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2022,11,11,"Words of Radiance: The Stormlight Archive Series, Book 2",9781429949620,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2022,11,34,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",9781429952040,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2022,11,6,Edgedancer: From the Stormlight Archive,9781250166609,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2022,11,10,"Oathbringer: The Stormlight Archive Series, Book 3",9780765399830,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2022,11,17,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",9781427294944,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2022,11,41,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",9781250759788,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,EBOOK,2022,11,30,"The Way of Kings: The Stormlight Archive Series, Book 1",9781429992800,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,AUDIOBOOK,2022,11,19,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",9781427238986,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2022,11,5,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",9780765391179,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2022,12,13,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",9781427233080,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,EBOOK,2022,12,11,"Words of Radiance: The Stormlight Archive Series, Book 2",9781429949620,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2022,12,6,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",9780765391179,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,EBOOK,2022,12,11,"Oathbringer: The Stormlight Archive Series, Book 3",9780765399830,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2022,12,36,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",9781427209764,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2022,12,26,"The Way of Kings: The Stormlight Archive Series, Book 1",9781429992800,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2022,12,5,Edgedancer: From the Stormlight Archive,9781250166609,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2022,12,21,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",9781427294937,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2022,12,35,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",9781427275936,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2022,12,58,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",9781250759788,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
+Digital,OverDrive,EBOOK,2022,12,6,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",9781429952040,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,EBOOK,2023,1,9,"Rhythm of War--Book Four of the Stormlight Archive: The Stormlight Archive Series, Book 4",9781429952040,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2020
+Digital,OverDrive,AUDIOBOOK,2023,1,35,"Oathbringer: The Stormlight Archive Series, Book 3 (unabridged)",9781427275936,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,AUDIOBOOK,2023,1,20,"Edgedancer: The Stormlight Archive Series, Book 2.5 (unabridged)",9781427294937,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2017
+Digital,OverDrive,EBOOK,2023,1,23,"The Way of Kings: The Stormlight Archive Series, Book 1",9781429992800,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2013
+Digital,OverDrive,EBOOK,2023,1,5,"Arcanum Unbounded: The Cosmere Collection: The Stormlight Archive, Book 2.5",9780765391179,Brandon Sanderson,"Fantasy, Fiction, Short Stories",Macmillan Publishers,2016
+Digital,OverDrive,AUDIOBOOK,2023,1,16,"Words of Radiance: The Stormlight Archive Series, Book 2 (unabridged)",9781427233080,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2014
+Digital,OverDrive,AUDIOBOOK,2023,1,36,"The Way of Kings: The Stormlight Archive Series, Book 1 (unabridged)",9781427209764,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2010
+Digital,OverDrive,EBOOK,2023,1,13,"Words of Radiance: The Stormlight Archive Series, Book 2",9781429949620,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2015
+Digital,OverDrive,EBOOK,2023,1,9,"Oathbringer: The Stormlight Archive Series, Book 3",9780765399830,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,EBOOK,2023,1,6,Edgedancer: From the Stormlight Archive,9781250166609,Brandon Sanderson,"Fantasy, Fiction",Macmillan Publishers,2017
+Digital,OverDrive,AUDIOBOOK,2023,1,48,"Rhythm of War: The Stormlight Archive Series, Book 4 (unabridged)",9781250759788,Brandon Sanderson,"Fantasy, Fiction",Macmillan Audio,2020
