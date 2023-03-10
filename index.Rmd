@@ -7,6 +7,8 @@ output: html_document
 
 An introduction of the data and a description of the trends/books/items you are choosing to analyze (and why!)
 
+The data that I am visualizing comes from the Seattle Open Data portal, with the focus being a book series that is fairly popular but not as renowned as say Harry Potter or the Hobbit. The series is named the Stormlight Archive, with there being 4 books in the timeline thus far and all of which are targeted towards young adult to adult audiences. I wish to show the trend based on the checkout to newer book relevance, as I feel people will buy the newest books when they come out but will also buy the older books to catch up in the series. 
+
 ### Summary Information
 
 Write a summary paragraph of findings that includes the 5 values calculated from your summary information R script
@@ -14,27 +16,59 @@ Write a summary paragraph of findings that includes the 5 values calculated from
 These will likely be calculated using your DPLYR skills, answering questions such as:
 
 - What is the average number of checkouts for each item?
+Arcanum Unbounded = 5.59
+Edgedancer Unabridged = 17.2
+Edgedancer 2.5 = 15.5
+Oathbringer Book 3 Unabridged = 33.9
+Oathbringer Book 3 = 24.8
+Rhythm of War Book 4 = 47.2
+Rhythm of War Book4 Abridged = 53
+The Way of Kings Book 1 = 22.4
+The Way of Kings Book 1 Unabridged = 25
+Words of Radiance Book 2 = 13.3
+Words of Radiance Book 2 Unabridged = 14
+
 - What is the month or year with the most/least checkouts for a book that you're interested in?
-- What is the month or year with the most/least checkouts for ebooks?
+Interested book = Oathbringer(came out in November 14th, 2017)
+Most Checkouts = October or 10th Month
+Least Checkouts = April or 4th Month
+
+- What is the month with the most/least checkouts for ebooks?
+Most = September or 9th Month
+Least = February or 2nd Month
+
 - How has the number of print book checkouts changed over time?
+There is a natural ebb and flow with checkouts as the older books from earlier in the series reduce in checkout amounts, but increase as new books come out. Main large increases in checkouts occur during 2016 and 2017 as Edgedancer and Oathbringer were released respectively. 
 
 Feel free to calculate and report values that you find relevant.
 
 ### The Dataset
 
 - Who collected/published the data?  
-- What are the parameters of the data (dates, number of checkouts, kinds of books, etc.)?
-- How was the data collected or generated?  
-- Why was the data collected?  
-- What, if any, ethical questions do you need to consider when working with this data?  
-- What are possible limitations or problems with this data?   (at least 200 words)
+Collecter/publisher of data = Seattle Open Data. This is a government based database that uses any public library checkouts(with private venues being left out of the data unless it is expressed to a public forum, which is not very likely).
 
+- What are the parameters of the data (dates, number of checkouts, kinds of books, etc.)?
+The parameters of the data only relates to the name of the series: The Stormlight Archive with the rest of the data being left open to any information surrounding the series. 
+
+- How was the data collected or generated?  
+The data was collected via any public center that allows a physical or digital book to be checked out. Since it is government database, unless the permission of a private bookstore(like Barnes and Nobles, which is a private company) is given or the data is freely available. So the checkout values are fairly limited as checking out books are slowly dying off, but this is made even by ebooks. 
+
+- Why was the data collected?  
+Mainly for trend lines on the popularity of checking out this series, as ultimately there is no harm or loss in collecting this data. Some information is collected simply to provide people jobs to evaluate it and then see if there is a change over time in the value of this series(from checkouts to relevance of publishing date to checkout date).
+
+- What, if any, ethical questions do you need to consider when working with this data?  
+It does feel odd to knwo the exact checkout amounts, with fairly specific time frames surrounding when the checkouts. While I don't think the specfic topic(details surrounding a books checkout and general details relating to its publishing date/publisher), if this degree of detail was applied to other factors like the specifics of a person's shopping history then it would be more nefarious. 
+
+- What are possible limitations or problems with this data?   (at least 200 words)
+The main limitation of this dataset is that this is strictly Seattle, with multiple books being checked out/purchased outside of Seattle regardless if the person lives in Seattle or not. There is also the case that some books could have been stolen which would not be documented, but I feel this value would still be quite low. Yet the most irritating part of this data frame is the fact that the names are incredibly long and very specific in their spellings, which makes creating graphs a lot more complicated. The Title column also contains multiple different versions of book names despite them being the same book, and also contains different values from Titles from the same book. This can be seen with some Titles containing 'unabridged' either once or twice within the name of the Title. Probably the most limiting factor(the previous problems have been mostly nitpicking or annoying factors with using the data frame) is the fact that 'Materials Used' is so heavily dominated by audiobooks that it offsets ebooks and actual books which reduces checkouts as audiobooks are the most easily pirated form of literacy. Ultimately, I feel this data set is very jumbled but is similar to other data sets from Seattle Open Portal as checkouts are very messy pieces of information without much rhyme or reason.
 
 ### First Trends Over Time Chart
 
 Include a chart. Make sure to describe why you included the chart, and what patterns emerged
 
 The first chart that you will create and include will show the trend over time of your variable/topic/interest. Think carefully about what you want to communicate to your user (you may have to find relevant trends in the dataset first!). Here are some requirements to help guide your design:
+What are the changes in checkouts between The Way of Kings and Words of Radiance from 2015 to 2017? 
+Mainly want to see this trend due to readers rereading these books for the newer books. It seems that as the newer books are released, WOR(Words of Radiance) gained checkouts, while TWOK(The Way of Kings) has been continuously at the peak value of WOR during 2015 - 2017 due to acting as the starting point of the series. 
 
 - Show more than one, but fewer than ~10 trends
   - For example, two books, or 5 different mediums
@@ -46,6 +80,9 @@ In your .Rmd file, make sure to describe why you included the chart, and what pa
 When we say "clear" or "human readable" titles and labels, that means that you should not just display the variable name.
 
 Here's an example of how to run an R script inside an RMarkdown file:
+''''''{r, echo = FALSE, code = readLines("")}
+'''
+TWOK_vs_WOR
 
 ``````{r, echo = FALSE, warning = FALSE, code = readLines("chart1_example.R")}
 ```
@@ -56,6 +93,9 @@ Include a chart. Make sure to describe why you included the chart, and what patt
 
 The second chart that you will create and include will show another trend over time of your variable/topic/interest. Think carefully about what you want to communicate to your user (you may have to find relevant trends in the dataset first!). Here are some requirements to help guide your design:
 
+Create a bar graph of 2016 CheckoutYear for Edgedancer: From the Stormlight Archive vs 2017 CheckoutYear for Oathbringer: The Stormlight Archive Series, Book 3 (unabridged). 
+Basically will see whether Edgedancer or Oathbringer had a higher peak release year. While Edgedancer overall has the higher value of checkouts throughout the dataframe, Oathbringer had a larger peak value of checkouts due to it being 1. A longer book and 2. Being considered a more main line book in the series. 
+
 - Show more than one, but fewer than ~10 trends
   - For example, two books, or 5 different mediums
 - You must have clear x and y axis labels
@@ -66,19 +106,22 @@ In your .Rmd file, make sure to describe why you included the chart, and what pa
 When we say "clear" or "human readable" titles and labels, that means that you should not just display the variable name.
 
 Here's an example of how to run an R script inside an RMarkdown file:
-
+ED_vs_OB_Peak
 ``````{r, echo = FALSE, code = readLines("chart2_example.R")}
 ```
 
 ### Your Choice
 
 The last chart is up to you. It could be a line plot, scatter plot, histogram, bar plot, stacked bar plot, and more. Here are some requirements to help guide your design:
+History of The Way of Kings: The Stormlight Archive Series, Book 1 as a scatterplot throughout all of Checkoutyear.
+Since this is the first book in the entire series, it would be interesting to see the dips and rises of its checkout relevancy. From 2012 to 2022, the overall trend of the scatterplot is upward as the series popularity will increase as the lifespan of the series increases. There is also large increases after a new book in the series is released(2016, 2017, 2020).
 
 - You must have clear x and y axis labels
 - The chart needs a clear title 
 - You need a legend for your different line colors and a clear legend title
 
 Here's an example of how to run an R script inside an RMarkdown file:
+TWOK_History
 
 ``````{r, echo = FALSE, code = readLines("chart2_example.R")}
 ```
